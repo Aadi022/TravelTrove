@@ -92,8 +92,4 @@ Stores details of travel packages for various destinations.
 - **zod**
 - **body-parser**
 
-## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/travel-packages-backend.git
